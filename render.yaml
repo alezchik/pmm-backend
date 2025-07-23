@@ -16,12 +16,12 @@ services:
       - key: DB_TYPE
         value: postgresdb
       - key: DB_POSTGRESDB_HOST
-        value: db.dyaxychtvpkniheacpnu.supabase.co
+        value: aws-0-us-east-2.pooler.supabase.com
       - key: DB_POSTGRESDB_PORT
         value: "5432"
       - key: DB_POSTGRESDB_DATABASE
         value: postgres
       - key: DB_POSTGRESDB_USER
-        value: postgres
+        value: postgres.dyaxychtvpkniheacpnu
       - key: DB_POSTGRESDB_PASSWORD
         value: bOcoKxDHh7NCz7dI
