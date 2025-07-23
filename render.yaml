@@ -13,3 +13,15 @@ services:
         value: yourusername
       - key: N8N_BASIC_AUTH_PASSWORD
         value: yourpassword
+      - key: DB_TYPE
+        value: postgresdb
+      - key: DB_POSTGRESDB_HOST
+        value: db.dyaxychtvpkniheacpnu.supabase.co
+      - key: DB_POSTGRESDB_PORT
+        value: "5432"
+      - key: DB_POSTGRESDB_DATABASE
+        value: postgres
+      - key: DB_POSTGRESDB_USER
+        value: postgres
+      - key: DB_POSTGRESDB_PASSWORD
+        value: bOcoKxDHh7NCz7dI
